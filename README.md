@@ -22,7 +22,7 @@ This will run the interperted script and launch a window with a button to genera
 
 ## Author
 
-**Nic Gerhardt**
+**Nicolas Gerhardt**
 
 - [Profile](https://github.com/NicolasGerhardt/ "Nic Gerhardt")
 - [Email](mailto:nicolas.gerhardt@gmail.com?subject=Hi "Hi!")

@@ -6,7 +6,7 @@
 
 - [Repo](https://github.com/NicolasGerhardt/CharacterGenerator "Character Generator Repo")
 
-- [Bugs](https://github.com/NicolasGerhardt/CharacterGenerator "Issues Page")
+- [Bugs](https://github.com/NicolasGerhardt/CharacterGenerator/issues "Issues Page")
 
 ## Available Commands
 
